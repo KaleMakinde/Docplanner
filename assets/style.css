@@ -1,0 +1,150 @@
+
+
+
+.logo {
+    
+    font-size: 30px;
+    color: rgb(62, 206, 170);
+    font-weight: bold;
+    font-family: serif;
+    text-decoration: none;
+    justify-content: space-between;
+    
+}
+.header{
+    display: flex;
+    padding: 0 5rem;
+    margin: 0 2px 0 5rem;
+    justify-content: space-between;
+    text-decoration: none; 
+    box-sizing: border-box;
+    box-shadow: 3rem;
+    position: sticky; 
+}
+.headtag{
+    box-sizing: border-box;
+    box-shadow: 5rem;
+    position: sticky;
+}
+.navs{
+    list-style: none;
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+    font-size: 18px;
+    margin-right: 5rem;
+    margin-left: 7rem;
+    
+}
+.navi1{
+    text-decoration: none;
+    list-style: none;
+    justify-content: space-between;
+    padding: 0 2rem 0 0;
+}
+.navi2{
+    text-decoration: none;
+    list-style: none;
+    justify-content: space-between;
+    padding: 0 2rem 0 0;
+}
+.navi3{
+    text-decoration: none;
+    list-style: none;
+    justify-content: space-between;
+    padding: 0 2rem 0 0;
+}
+.navlink{
+    text-decoration: none;
+}
+
+.wrapper{
+    justify-content: center;
+    align-content: center;
+    padding-right: 5rem;
+     padding-left: 5rem;
+    margin: 5rem;
+}
+
+.midlogo{
+    padding-left: 28rem;
+    padding-bottom: 2rem;
+    
+}
+.heading {
+    text-align: center;
+    justify-content: space-between;
+    font-size: 2rem;
+    margin-top: 0;
+    color: rgb(62, 206, 170);
+    font-weight: lighter;
+}
+
+.textwrap{
+    display: flex;
+    font-size: 20px;
+    justify-content: space-between;
+    color: rgb(156, 139, 139);
+}
+.text2{
+    padding-left: 2rem;
+}
+
+.square{
+    width: 20rem;
+    height: 10rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .departments-dropdown-menu a { 
+    text-decoration: none;
+    color: #ababab;
+    font-size: 15px;
+    margin-left: 20px;
+  }
+  
+  .departments-dropdown-menu ul {
+    list-style-type: none;
+    text-align: left;
+    padding-left: 0px;
+  }
+  
+  .departments-dropdown-menu {
+    display: none;
+    box-shadow: 0 1px 1px 1px #ababab;
+  }
+  
+  .departments-link:hover .departments-dropdown-menu {
+    display: block;
+    position: absolute;
+    width: 300px;
+    font-size: 15px;
+    line-height: 2;
+    left: 30px;
+    background-color: #f9f9f9;
+  }
+  
+  .row-menu:hover {
+    background-color: #b5b3b338;
+    color: #03c5ab;
+  }
+  
+  .row-menu:hover a {
+    color: #03c5ab;
+  }
+
+ */
